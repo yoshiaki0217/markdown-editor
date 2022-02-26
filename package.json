@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "webpack serve --mode=development",
-    "build": "build --output public"
+    "build": "npm run build"
   },
   "dependencies": {
     "@types/marked": "^2.0.5",
